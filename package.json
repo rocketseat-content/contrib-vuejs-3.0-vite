@@ -1,0 +1,17 @@
+{
+  "name": "contribvue",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "dom-to-image": "^2.6.0",
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "tailwindcss": "^1.7.3",
+    "vite": "^1.0.0-rc.1"
+  }
+}
